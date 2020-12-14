@@ -1,0 +1,111 @@
+.p-title{
+	color: #000;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+    text-align: center;
+
+}
+.project-desc{
+	color: #555;
+    letter-spacing: 0.3px;
+    line-height: 1.7;
+    padding: 0 120px;
+    text-align: center;
+ }
+ .tumbnail-img{
+ 	display: block;
+ 	width:100%;
+ 	cursor: pointer;
+ }
+.project-img-div{
+	padding: 20px;
+}
+ .project_title{
+	background-color: #fff;
+	border: 2px solid #ff871c;
+	cursor: pointer;
+	color: #ff871c;
+    display: block;
+    font-size: 14px;
+    font-weight: bold;
+    letter-spacing: 0.5px;
+    text-align: center;
+    padding: 6px 15px;
+    text-transform: uppercase;
+    -webkit-transition: all 0.5s;
+    -moz-transition: all 0.5s;
+    -ms-transition: all 0.5s;
+    -o-transition: all 0.5s;
+    transition: all 0.5s;
+}	
+/*.project-img{
+	display: block;
+	width:100%;
+}*/
+.imgpopup-hidden{
+	display:none;
+}
+.imgpopup-visible{
+	z-index :1;
+}
+.blur-filter {
+    -webkit-filter: blur(2px);
+    -moz-filter: blur(2px);
+    -o-filter: blur(2px);
+    -ms-filter: blur(2px);
+    filter: blur(2px);
+    overflow: hidden;
+}
+.hide-class{
+	display: none;
+}
+
+
+
+
+/*Modal css start*/
+
+.modal {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Sit on top */
+    /*padding-top: 100px;  Location of the box */
+    left: 0;
+    top: 0;
+    /*width: 100%;  Full width */
+    /*height: 100%;  Full height */
+    overflow: hidden; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+/* Modal Content */
+.modal-content {
+    background-color: #fefefe;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #888;
+    width: 100%;
+    height: 100%
+}
+
+/* The Close Button */
+.close {
+    color: #aaaaaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
+.project-img{
+	display: block;
+	height: 95%;
+	margin: auto;
+}
+/*Modal css ends here*/
