@@ -1,8 +1,8 @@
 <?php include('header.php')?>
   <!-- Start Slider -->
-  <section id="mu-slider">
+  <!-- <section id="mu-slider"> -->
     <!-- Start single slider item -->
-    <div class="mu-slider-single">
+    <!-- <div class="mu-slider-single">
       <div class="mu-slider-img">
         <figure>
           <img src="assets/img/mp_1.jpg" alt="img">
@@ -15,12 +15,11 @@
             <p class="pull-right" style="color:black);">-Le Corbusier</p>
           </div>
         </div>
-        
       </div>
-    </div>
+    </div> -->
     <!-- Start single slider item -->
     <!-- Start single slider item -->
-    <div class="mu-slider-single">
+    <!-- <div class="mu-slider-single">
       <div class="mu-slider-img">
         <figure>
           <img src="assets/img/slider/Engala_Enclave_Warangal_Introspections_Architecture_Rendering.jpg" alt="Engala Enclave Warangal Introspections Architecture Rendering">
@@ -34,10 +33,10 @@
           </div>
         </div>
       </div>
-    </div>
+    </div> -->
     <!-- Start single slider item -->
     <!-- Start single slider item -->
-    <div class="mu-slider-single">
+    <!-- <div class="mu-slider-single">
       <div class="mu-slider-img">
         <figure>
           <img src="assets/img/slider/Lahari_Villas_Hyderabad_Introspections_Architecture_Rendering.jpg" alt="Lahari Villas Hyderabad Introspections Architecture Rendering">
@@ -51,20 +50,41 @@
           </div>
         </div>
       </div>
-    </div>
+    </div> -->
     <!-- Start single slider item -->    
-  </section>
+  <!-- </section> -->
   <!-- End Slider -->
 
+  <!-- Start about us -->
+<section id="mu-initial-slide" style="background-color: #e1dad2;height: 100vh;padding: 25% 10%">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <div class="mu-initial-area">           
+            <div class="row">
+              <div class="col-lg-12 col-md-12">
+                <div class="mu-initial-left">
+                  <p > 
+                  Architecture is an event that suddenly emerges from the mind or soul of the architect. Architect may be preoccupied with the making of the building solid, or meeting demands for comfort, when suddenly he finds himself uplifted by a desire to do more than simply meet needs - he wants to express lyrical forces that give him joy. - Le corbusier
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+</section>
+  <!-- End about us -->
 
   <!-- Start about us -->
-  <section id="mu-about-us" style="background-image: url('assets/img/mp_2.jpg'); background-size: 100% 100%;">
+  <section id="mu-about-us">
     <div class="container">
       <div class="row">
         <div class="col-md-12">
           <div class="mu-about-us-area">           
             <div class="row">
-              <div class="col-lg-7 col-md-7">
+              <div class="col-lg-12 col-md-12">
                 <div class="mu-about-us-left">
                   <!-- Start Title -->
                   <div class="mu-title">
@@ -72,17 +92,19 @@
                   </div>
                   <!-- End Title -->
                   <p align="justify"> 
-				      Architectural, interior design firm Introspections  was Established by Venkat Yerramilli in the year 2007. Introspections has been completing and successful in progressing work on many architectural and interior projects. In the due course has completed around 75 projects which included architectural as well as interiors. 
+                  Firm - Introspections has been established by venkat yerramilli in the year 2008, dealing in architectural and interior services, in due course, Introspections has successfully completed more than 120 projects, including independant houses, apartments, offices, restaurants, commercial and semi public spaces. 
                   </p>
                   <p align="justify">
-				      Dedicated to the success of our clients, <a href="http://archinect.com/Introspections">Introspections</a> Architects aim is to create meaningful and engaging environments that function well for users and are cost-effective. We approach each project as an opportunity to develop a compelling solution that exceeds our client's expectations while maintaining the highest standards of design excellence.
+				          Venkat yerramilli - architect, has more than 12 years of experience in designing and planning. Holds a Bachelor of architecture degree from mumbai university 2001, and Masters in Urban and Regional Planning 2004 from JNFAU.
                   </p>
-				  
+				          <p align="justify">
+                  Dedicated to the success of our clients, introspections architects aims to create meaningful and engaging environments that function well for users and are cost effective too. We approach each project as an opportunity to develop a compelling solution that exceeds our clients expectation.
+                  </p>
                 </div>
               </div>
-              <div class="col-lg-5 col-md-5">
+              <!-- <div class="col-lg-5 col-md-5">
                 <img src="assets/img/home_3.jpg" style="height:280px;width:115%;">
-              </div>
+              </div> -->
               
             </div>
           </div>
@@ -91,24 +113,5 @@
     </div>
   </section>
   <!-- End about us -->
-
-  <!-- Start about us counter -->
-  <section id="mu-abtus-counter" class="overlay">
-    <div class="container" >
-      <div class="row" >
-        <div class="col-md-12" >
-          <div class="mu-abtus-counter-area" >
-            <div class="row" >
-                  <div class="col-md-10 col-md-offset-1">
-                  <h3 style="color:white" align="justify" >
-                    We believe an Architect is a gregarious animal, and so is his concern for a better civilized society. We see design as a constant evolving process, expertising is only learning and improving. We are a team with high zeal in creating and producing a better work whether it is in architecture or interiors, ranging from residential, office commercials, healthcare buildings to schools. </h3>
-                  </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
-  <!-- End about us counter -->
 
 <?php include('footer.php')?>

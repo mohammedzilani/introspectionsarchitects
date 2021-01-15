@@ -2,8 +2,7 @@
 
 <div>
    <h2 class="p-title">Projects</h2>
-    <p class="project-desc"> Introspection has been planning and designing facilities nearly for a decade in and around Hyderabad.  We have designed over 75 projects which include Independent houses, Apartments, Software offices, Healthcare Buildings, Restaurants, Commercial and Corporate Buildings.</p>
-    <p class="project-desc"> <a href="http://introspectionsarchitects.com">Introspections</a> architects are committed to develop sustainable projects which are environmentally responsible, and healthy places to live, work and learn. Our design philosophy is guided by a commitment to indigenous architecture and strive to cultivate a relationship between site, building and community.</p>
+    <p class="project-desc"> Firm - Introspections has been established by venkat yerramilli in the year 2008, dealing in architectural and interior services, in due course, Introspections has successfully completed more than 120 projects, including independant houses, apartments, offices, restaurants, commercial and semi public spaces.</p>
 </div>
 <!-- start of row 1 -->
 <div class="row">

@@ -21,10 +21,10 @@
 	padding: 20px;
 }
  .project_title{
-	background-color: #fff;
-	border: 2px solid #ff871c;
+	background-color: #e1dad2;
+	/* border: 2px solid #ff871c; */
 	cursor: pointer;
-	color: #ff871c;
+	/* color: #ff871c; */
     display: block;
     font-size: 14px;
     font-weight: bold;
