@@ -106,7 +106,7 @@
         <div id="navbar" class="navbar-collapse collapse" style="position:fixed">
           <ul id="top-menu" class="nav navbar-nav  main-nav">
             <li><a href="index.php">Home</a></li>            
-            <li class="Team"><a href="team.php" >Team</a>
+            <!-- <li class="Team"><a href="team.php" >Team</a> -->
             <li><a href="projects.php" >Projects</a></li>          
             <li><a href="contact.php">Contact</a></li>
           </ul>                     
