@@ -84,10 +84,8 @@
 <div class="row" style="background-color: #e1dad2">
   
   <div class="col-md-4 project-img-div">
-    <div class="RG project_title">
-      <div class="text">Villas At Saketh</div>
-    </div>
-    <img class="RG tumbnail-img" src="assets/img/projects/VAS-1.jpg">
+  <p class="RG project_title">Villas At Saketh</p>
+  <img class="RG tumbnail-img" src="assets/img/projects/VAS-1.jpg">
   </div>
   <!-- <div class="col-md-4 project-img-div">
     <p class="NK project_title">Anil Kodali Residence Interiors</p>
