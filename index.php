@@ -56,7 +56,7 @@
   <!-- End Slider -->
 
   <!-- Start about us -->
-<section id="mu-initial-slide" style="background-color: #e1dad2;height: 100vh;padding: 25% 10%">
+<section id="mu-initial-slide" class="initial-display">
     <div class="container">
       <div class="row">
         <div class="col-md-12">

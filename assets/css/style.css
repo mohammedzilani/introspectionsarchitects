@@ -458,7 +458,12 @@ img {
   width: 100%;
   padding: 100px 0;
 }
-
+.initial-display {
+  background-color: #e1dad2;
+  height: 100vh;
+  padding: 25% 10%;
+  overflow:hidden;
+}
 #mu-initial-slide .mu-initial-slide-area {
   display: inline;
   float: left;

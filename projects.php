@@ -8,7 +8,7 @@
 <div class="row" style="background-color: #e1dad2">
   <div class="col-md-4 project-img-div">
     <p class="VT project_title">VOTARYTECH OFFICE</p>
-    <img class="VT tumbnail-img" src="assets/img/projects/VT-9.jpg">
+    <img class="VT tumbnail-img" src="assets/img/projects/VT-1.jpg">
   </div>
   <div class="col-md-4 project-img-div">
     <p class="AD project_title">ADARSH RESIDENCE</p>
@@ -84,7 +84,9 @@
 <div class="row" style="background-color: #e1dad2">
   
   <div class="col-md-4 project-img-div">
-    <p class="RG project_title">Villas At Saketh</p>
+    <div class="RG project_title">
+      <div class="text">Villas At Saketh</div>
+    </div>
     <img class="RG tumbnail-img" src="assets/img/projects/VAS-1.jpg">
   </div>
   <!-- <div class="col-md-4 project-img-div">
