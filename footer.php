@@ -10,8 +10,8 @@
                 <h4>Information</h4>
                 <ul>
                   <li><a href="#">About Us</a></li>
-                  <!-- <li><a href="team.php">Team</a></li> -->
-                  <li><a href="gallery.php">Gallery</a></li>
+                  <!-- <li><a href="team.php">Team</a></li>
+                  <li><a href="gallery.php">Gallery</a></li> -->
                   <li><a href="contact.php">Contact</a></li>
                 </ul>
               </div>

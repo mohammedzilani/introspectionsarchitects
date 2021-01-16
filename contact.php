@@ -1,6 +1,6 @@
 <?php include("header.php");?>
 	<!-- Start contact  -->
- <section id="mu-contact">
+ <section id="mu-contact" style="background-color: #e1dad2">
    <div class="container">
      <div class="row">
        <div class="col-md-12">

@@ -88,7 +88,7 @@
                 <div class="mu-about-us-left">
                   <!-- Start Title -->
                   <div class="mu-title">
-                    <h2 style="text-align: center">About Us</h2>              
+                    <h3 style="text-align: center">About Us</h3>              
                   </div>
                   <!-- End Title -->
                   <p align="justify"> 

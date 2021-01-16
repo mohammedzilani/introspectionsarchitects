@@ -1,11 +1,11 @@
 <?php include("header.php");?>
 
-<div>
+<div style="background-color: #e1dad2">
    <h2 class="p-title">Projects</h2>
     <p class="project-desc"> Firm - Introspections has been established by venkat yerramilli in the year 2008, dealing in architectural and interior services, in due course, Introspections has successfully completed more than 120 projects, including independant houses, apartments, offices, restaurants, commercial and semi public spaces.</p>
 </div>
 <!-- start of row 1 -->
-<div class="row">
+<div class="row" style="background-color: #e1dad2">
   <div class="col-md-4 project-img-div">
     <p class="VT project_title">VOTARYTECH OFFICE</p>
     <img class="VT tumbnail-img" src="assets/img/projects/VT-9.jpg">
@@ -21,7 +21,7 @@
 </div>
 <!-- end of image row 1 -->
 <!-- start of row 2 -->
-<div class="row">
+<div class="row" style="background-color: #e1dad2">
   <div class="col-md-4 project-img-div">
     <p class="NK project_title">N K</p>
     <img class="NK tumbnail-img" src="assets/img/projects/NK-1.jpg">
@@ -36,7 +36,7 @@
   </div>
 </div>
 
-<div class="row">
+<div class="row" style="background-color: #e1dad2">
   <div class="col-md-4 project-img-div">
     <p class="NK project_title">The Cent Hotel Interiors</p>
     <img class="NK tumbnail-img" src="assets/img/projects/TCHI-1.jpg">
@@ -51,7 +51,7 @@
   </div>
 </div>
 
-<div class="row">
+<div class="row" style="background-color: #e1dad2">
   <div class="col-md-4 project-img-div">
     <p class="NK project_title">Cafe</p>
     <img class="NK tumbnail-img" src="assets/img/projects/CAFE-1.jpg">
@@ -66,7 +66,7 @@
   </div>
 </div>
 
-<div class="row">
+<div class="row" style="background-color: #e1dad2">
   <div class="col-md-4 project-img-div">
     <p class="NK project_title">Residence At Alkapuri</p>
     <img class="NK tumbnail-img" src="assets/img/projects/RAALK-1.jpg">
@@ -81,7 +81,7 @@
   </div>
 </div>
 
-<div class="row">
+<div class="row" style="background-color: #e1dad2">
   
   <div class="col-md-4 project-img-div">
     <p class="RG project_title">Villas At Saketh</p>
@@ -96,10 +96,6 @@
     <img class="OM tumbnail-img" src="assets/img/projects/OM-1.jpg">
   </div> -->
 </div>
-
-
-
-
 
 
 <!-- end of image row 2-->

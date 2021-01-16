@@ -86,7 +86,7 @@
 
   <!-- Start menu -->
   <section id="mu-menu" class="header-container">
-    <nav class="navbar navbar-default navbar-static-top" id="main_nav" role="navigation" style="background-color:#e1dad2">  
+    <nav class="navbar navbar-default navbar-static-top" id="main_nav" role="navigation" style="background-color:#e1dad2;border:none">  
       <div class="container">
         <a class="navbar-brand pull-right" href="index.php"><img src="assets/img/logo_d.png" alt="logo" style="margin-top: -15px"></a>
         <div class="navbar-header">
