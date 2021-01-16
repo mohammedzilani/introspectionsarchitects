@@ -64,8 +64,8 @@
             <div class="row">
               <div class="col-lg-12 col-md-12">
                 <div class="mu-initial-left">
-                  <p > 
-                  Architecture is an event that suddenly emerges from the mind or soul of the architect. Architect may be preoccupied with the making of the building solid, or meeting demands for comfort, when suddenly he finds himself uplifted by a desire to do more than simply meet needs - he wants to express lyrical forces that give him joy. - Le corbusier
+                  <p style="width:75%"> 
+                  Architecture is an event that suddenly emerges from the mind or soul of the architect. Architect may be preoccupied with the making of the building solid,  or meeting demands for comfort, when suddenly he finds himself uplifted by a desire to do more than simply meet needs - he wants to express lyrical forces that give him joy. - Le corbusier
                   </p>
                 </div>
               </div>
@@ -88,7 +88,7 @@
                 <div class="mu-about-us-left">
                   <!-- Start Title -->
                   <div class="mu-title">
-                    <h3 style="text-align: center">About Us</h3>              
+                    <h3 style="text-align: left">About Us</h3>              
                   </div>
                   <!-- End Title -->
                   <p align="justify"> 
