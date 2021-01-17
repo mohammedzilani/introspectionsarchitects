@@ -332,7 +332,7 @@
     <div class="swiper-wrapper">        
       <?php 
         $dirname = "assets/img/projects/list/Legend villa/";
-        $images = glob($dirname."*LV*.jpg");
+        $images = glob($dirname."*LV*.jpeg");
         foreach($images as $image) { ?>
            <div class="swiper-slide">
               <img class="project-img" alt="img" src="<?php echo $image;?>">
